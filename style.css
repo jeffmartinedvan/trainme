@@ -85,11 +85,15 @@ main {
   font-size: 16px;
   border: none;
   border-radius: 4px;
+  background-color: #4A9A7E;
+  color: white;
+
 }
 
 /* Handle when user hover on the button */
 .text button:hover {
-  background-color: #4A9A7E;
+  background-color: #4A9A7EDD;
+  cursor: pointer;
 }
 
 /* Check the text styling */
